@@ -1,0 +1,11 @@
+{
+    "name": "Samurai",
+    "description": "Samurai-NFT #5",
+    "image": "https://raw.githubusercontent.com/samurai-sbch/sNFT/main/image/5.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "scenery"
+        }
+    ]
+}

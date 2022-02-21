@@ -1,0 +1,23 @@
+{
+    "name": "Samurai",
+    "description": "Samurai-NFT #4",
+    "image": "https://raw.githubusercontent.com/samurai-sbch/sNFT/main/image/4.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "scenery"
+        },
+        {
+            "trait_type": "hair",
+            "value": "brown hair"
+        },
+        {
+           "trait_type": "eyes",
+           "value": "grey eyes"
+        },
+        {
+           "trait_type": "specialty",
+           "value": "fire manipulator"
+        }
+    ]
+}
