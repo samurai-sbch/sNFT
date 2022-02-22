@@ -1,0 +1,31 @@
+{
+    "name": "Samurai",
+    "description": "Samurai-NFT #22",
+    "image": "https://raw.githubusercontent.com/samurai-sbch/sNFT/main/image/22.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "bch"
+        },
+        {
+            "trait_type": "hair",
+            "value": "black hair"
+        },
+        {
+           "trait_type": "eyes",
+           "value": "blue eyes"
+        },
+        {
+           "trait_type": "specialty",
+           "value": "samurai technique"
+        },
+        {
+           "trait_type": "time taken",
+           "value": "11 hours"
+        },
+        {
+           "trait_type": "art type",
+           "value": "character concept"
+        }
+    ]
+}

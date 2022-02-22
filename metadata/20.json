@@ -1,0 +1,27 @@
+{
+    "name": "Samurai",
+    "description": "Samurai-NFT #20",
+    "image": "https://raw.githubusercontent.com/samurai-sbch/sNFT/main/image/20.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "shinto shrine"
+        },
+        {
+            "trait_type": "hair",
+            "value": "Black hair"
+        },
+        {
+           "trait_type": "eyes",
+           "value": "red eyes"
+        },
+        {
+           "trait_type": "specialty",
+           "value": "two-sword style "
+        },
+        {
+           "trait_type": "time taken",
+           "value": "12 hours"
+        }
+    ]
+}

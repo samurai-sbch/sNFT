@@ -1,0 +1,27 @@
+{
+    "name": "Samurai",
+    "description": "Samurai-NFT #19",
+    "image": "https://raw.githubusercontent.com/samurai-sbch/sNFT/main/image/19.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "hair",
+            "value": "black hair"
+        },
+        {
+           "trait_type": "eyes",
+           "value": "Black eyes"
+        },
+        {
+           "trait_type": "specialty",
+           "value": "skilled samurai"
+        },
+        {
+           "trait_type": "time taken",
+           "value": "2 hours"
+        }
+    ]
+}
