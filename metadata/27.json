@@ -1,0 +1,35 @@
+{
+    "name": "Samurai",
+    "description": "Samurai-NFT #27",
+    "image": "https://raw.githubusercontent.com/samurai-sbch/sNFT/main/image/27.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "gray"
+        },
+        {
+            "trait_type": "hair",
+            "value": "violet hair"
+        },
+        {
+           "trait_type": "eyes",
+           "value": "violet eyes"
+        },
+        {
+           "trait_type": "specialty",
+           "value": "skilled samurai"
+        },
+        {
+           "trait_type": "time taken",
+           "value": "9 hours"
+        }
+        {
+           "trait_type": "outfit",
+           "value": "violet kimono"
+        }
+        {
+           "trait_type": "power system",
+           "value": "violet flare"
+        }
+    ]
+}
