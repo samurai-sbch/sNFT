@@ -1,0 +1,35 @@
+{
+    "name": "Samurai",
+    "description": "Samurai-NFT #28",
+    "image": "https://raw.githubusercontent.com/samurai-sbch/sNFT/main/image/28.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "sea"
+        },
+        {
+            "trait_type": "hair",
+            "value": "dark blue hair"
+        },
+        {
+           "trait_type": "eyes",
+           "value": "blue eyes"
+        },
+        {
+           "trait_type": "specialty",
+           "value": "most skilled samurai"
+        },
+        {
+           "trait_type": "time taken",
+           "value": "12 hours"
+        }
+        {
+           "trait_type": "outfit",
+           "value": "blue kimono"
+        }
+        {
+           "trait_type": "power system",
+           "value": "breathing of the sea"
+        }
+    ]
+}
