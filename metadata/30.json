@@ -1,0 +1,35 @@
+{
+    "name": "Samurai",
+    "description": "Samurai-NFT #30",
+    "image": "https://raw.githubusercontent.com/samurai-sbch/sNFT/main/image/30.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": " scenery "
+        },
+        {
+            "trait_type": "hair",
+            "value": "black hair"
+        },
+        {
+           "trait_type": "eyes",
+           "value": "red eyes"
+        },
+        {
+           "trait_type": "specialty"
+           "value": "most skilled pirate samurai" 
+        },
+        {
+           "trait_type": "time taken",
+           "value": "7 hours"
+        }, 
+        {
+           "trait_type": "outfit",
+           "value": "red kimono"
+        }, 
+        {
+           "trait_type": "power system",
+           "value": " rubber "
+        }
+    ]
+}
