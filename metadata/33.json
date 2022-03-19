@@ -1,6 +1,39 @@
-
 {
     "name": "Samurai",
-    "description": "Samurai-NFT Hidden",
-    "image": "https://raw.githubusercontent.com/samurai-sbch/sNFT/main/hidden/hidden.jpg"
+    "description": "Samurai-NFT #33",
+    "image": "https://raw.githubusercontent.com/samurai-sbch/sNFT/main/image/33.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": " night "
+        },
+        {
+            "trait_type": "hair",
+            "value": "none" 
+        },
+        {
+           "trait_type": "eyes",
+           "value": "black eyes"
+        },
+        {
+           "trait_type": "specialty", 
+           "value": "most skilled masked samurai " 
+        },
+        {
+           "trait_type": "time taken",
+           "value": "9 hours"
+        }, 
+        {
+           "trait_type": "armor",
+           "value": "skeleton armor"
+        }, 
+        {
+           "trait_type": "power system",
+           "value": " darkness "
+        },
+        {
+           "trait_type": " weapon", 
+           "value": " skeleton sword "
+        }
+    ]
 }
